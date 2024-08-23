@@ -1,0 +1,298 @@
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\appsettings.Development.json
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\appsettings.json
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\LibrarySystem.exe
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\LibrarySystem.deps.json
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\LibrarySystem.runtimeconfig.json
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\LibrarySystem.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\LibrarySystem.pdb
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\AutoMapper.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Azure.Core.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Humanizer.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.csproj.AssemblyReference.cache
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfoInputs.cache
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfo.cs
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets\msbuild.LibrarySystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets\msbuild.build.LibrarySystem.props
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibrarySystem.props
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibrarySystem.props
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\scopedcss\bundle\LibrarySystem.styles.css
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibraryS.702885DD.Up2Date
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\refint\LibrarySystem.dll
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.pdb
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.genruntimeconfig.cache
+D:\Codes or something\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\ref\LibrarySystem.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\appsettings.Development.json
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\appsettings.json
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\LibrarySystem.exe
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\LibrarySystem.deps.json
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\LibrarySystem.runtimeconfig.json
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\LibrarySystem.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\LibrarySystem.pdb
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\AutoMapper.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Azure.Core.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Azure.Identity.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Humanizer.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.CodeDom.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.csproj.AssemblyReference.cache
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfoInputs.cache
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfo.cs
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.csproj.CoreCompileInputs.cache
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.MvcApplicationPartsAssemblyInfo.cs
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.MvcApplicationPartsAssemblyInfo.cache
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets.build.json
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets.development.json
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets\msbuild.LibrarySystem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets\msbuild.build.LibrarySystem.props
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibrarySystem.props
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibrarySystem.props
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\scopedcss\bundle\LibrarySystem.styles.css
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibraryS.702885DD.Up2Date
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\refint\LibrarySystem.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.pdb
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\LibrarySystem.genruntimeconfig.cache
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\obj\Debug\net8.0\ref\LibrarySystem.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+E:\Mohammed\Testing\LibrarySystem-master\LibrarySystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
